@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"Atualmente, estou cursando Análise e Desenvolvimento de Sistemas(SENAC).</p>
+<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas(SENAC).</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">📚 Atualmente estou aprendendo ...<br>🎯 Objetivo: Me tornar um desenvolvedor Full-Stack.</h2>
+<h2 align="left">📚 I'm currently learning ...<br>🎯 Goals: Me tornar um desenvolvedor Full-Stack.</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<p align="left">Social Media</p>
 
 ###
 
