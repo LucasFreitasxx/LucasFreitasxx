@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">📚 I'm currently learning ...<br>🎯 Goals: Me tornar um desenvolvedor Full-Stack.</h2>
+<h2 align="left">📚 Atualmente estou aprendendo ...<br>🎯 Objetivo: Me tornar um desenvolvedor Full-Stack.</h2>
 
 ###
 
