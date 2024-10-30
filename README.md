@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Social Media</p>
+<h2 align="left">Social Media</h2>
 
 ###
 
