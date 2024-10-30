@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<h2 align="left">📚 I'm currently learning ...<br>🎯 Goals: Me tornar um desenvolvedor Full-Stack.</h2>
+<h2 align="left">📚 Atualmente estou aprendendo ...<br>🎯 Objetivo: Me tornar um desenvolvedor Full-Stack.</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Social Media</p>
+<h2 align="left">Social Media</h2>
 
 ###
 
