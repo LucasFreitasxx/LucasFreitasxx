@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas(SENAC).</p>
+<p align="left"<b>>Atualmente, estou cursando Análise e Desenvolvimento de Sistemas(SENAC).</b></p>
 
 ###
 
